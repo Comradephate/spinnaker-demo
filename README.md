@@ -1,1 +1,1 @@
-# spinnaker-demo
+# spin-demo
