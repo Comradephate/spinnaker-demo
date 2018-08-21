@@ -1,8 +1,8 @@
 FROM python:3
 
-WORKDIR .
+WORKDIR app
 
-ADD .
+ADD . /app
 
 RUN pip install Flask
 
